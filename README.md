@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/B4ckR3d">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="#">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=B4ckR3d&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=B4ckR3d&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4ckR3d&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
