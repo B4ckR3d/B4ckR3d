@@ -1,10 +1,6 @@
 # 👋 Welcome to B4ckR3d's GitHub Profile!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBWUqYeC60/giphy.gif" width="100" height="100" alt="coding" />
-</div>
-
-<div align="center">
   <h3>🚀 Full Stack Developer | Tech Enthusiast | Code Explorer</h3>
   <p>
     <em>Turning ideas into reality with clean code and creative solutions</em>
@@ -75,7 +71,6 @@
 
 <div align="center">
   <h3>✨ Fun Facts About Me ✨</h3>
-  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVjr/giphy.gif" width="30" height="30" alt="wave" />
 </div>
 
 | Challenge           | Status         |
