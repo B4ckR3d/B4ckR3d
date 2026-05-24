@@ -93,7 +93,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEFrHIb1PK/giphy.gif" width="50" height="50" alt="love coding" />
   <p><strong>Made with ❤️ by B4ckR3d</strong></p>
 </div>
 
