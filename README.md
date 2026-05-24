@@ -75,7 +75,7 @@
 
 <div align="center">
   <h3>✨ Fun Facts About Me ✨</h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="30" height="30" alt="wave" />
+  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVjr/giphy.gif" width="30" height="30" alt="wave" />
 </div>
 
 | Challenge           | Status         |
