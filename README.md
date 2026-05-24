@@ -45,11 +45,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B4ckR3d&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4ckR3d&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b4ckr3d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ckr3d&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
