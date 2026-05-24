@@ -1,10 +1,18 @@
 # 👋 Welcome to B4ckR3d's GitHub Profile!
 
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBWUqYeC60/giphy.gif" width="100" height="100" alt="coding" />
+</div>
+
+<div align="center">
   <h3>🚀 Full Stack Developer | Tech Enthusiast | Code Explorer</h3>
   <p>
     <em>Turning ideas into reality with clean code and creative solutions</em>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+Learning+New+Tech;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 ---
@@ -48,9 +56,10 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b4ckr3d&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ckr3d&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/B4ckR3d">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4ckR3d&show_icons=true&theme=radical&hide_border=false&bg_color=000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4ckR3d&layout=compact&theme=radical&hide_border=false&bg_color=000000" />
+  </a>
 </div>
 
 ---
@@ -65,7 +74,32 @@
 ---
 
 <div align="center">
+  <h3>✨ Fun Facts About Me ✨</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="30" height="30" alt="wave" />
+</div>
+
+| Challenge           | Status         |
+| ------------------- | -------------- |
+| 🎯 Coding Challenge | 🔥 In Progress |
+| 📚 Learning         | Always!        |
+| 🚀 Building         | Never Stop!    |
+| ☕ Coffee           | Unlimited!     |
+
+---
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=B4ckR3d&color=brightgreen" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEFrHIb1PK/giphy.gif" width="50" height="50" alt="love coding" />
+  <p><strong>Made with ❤️ by B4ckR3d</strong></p>
 </div>
 
 ###
